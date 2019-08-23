@@ -72,7 +72,7 @@ class Timedemo
               break;
       
       case 2: Time b=new Time();
-              System.out.println("Enter Hour Minutes and seconds");
+              System.out.println("Enter Hour:Minutes:Seconds");
               int hr=sc.nextInt();
               int min=sc.nextInt();
               int sec=sc.nextInt();
