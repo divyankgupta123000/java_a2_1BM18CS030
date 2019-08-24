@@ -38,7 +38,7 @@ class Student
       total+=cred[i];
       System.out.println();
     }    
-  sgpa=(float) sum/total;
+  sgpa=(float)sum/total;
 }
   
  
