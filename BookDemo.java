@@ -83,8 +83,8 @@ Book's Price: 548.0
 No. of Pages:678
 
 
-Book's Name: 
-Author's Name:
-Book's Price: 0.0
+Book's Name:             Using toString
+Author's Name:      
+Book's Price: 0.0   
 No. of Pages:0
 */
