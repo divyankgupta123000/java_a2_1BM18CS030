@@ -12,12 +12,9 @@ class DynamicStack implements Stacked
 {
   int top=-1;
   int size=10;
-  int stk[];
-
+  int stk[]=new int[size];
   public void push(int item)
   {
-    stk=new int[size];
-    
     if(top==size-1)
     {
       size=size*2;
